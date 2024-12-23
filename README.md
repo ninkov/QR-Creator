@@ -36,4 +36,4 @@ Wee use React + Vite, and for QR code generation library like 'qrcode' or 'qrcod
 
 
 
-
+P.S. The assets folder and index.html are re-formatted files for deployment purposes (thanks to these files, the application is uploaded online and can be used)
