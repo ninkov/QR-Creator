@@ -25,7 +25,7 @@ Wee use React + Vite, and for QR code generation library like 'qrcode' or 'qrcod
 
     - then (ctr + c) and add library (npm install qrcode.react) implement logic 
   
-![Screenshot 2024-12-23 at 23 59 04](https://github.com/user-attachments/assets/4b6605a1-6d19-4482-bba2-1bdd03f2d7c3)
+      ![Screenshot 2024-12-23 at 23 59 04](https://github.com/user-attachments/assets/4b6605a1-6d19-4482-bba2-1bdd03f2d7c3)
 
 
 
