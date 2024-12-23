@@ -29,10 +29,9 @@ Wee use React + Vite, and for QR code generation library like 'qrcode' or 'qrcod
 
 
 
-
-
    - add style
 
+2. Enter your link in the field, press the "enter" key or click "generate" and you have a barcode. You can now scan the barcode with your phone that links you to the desired address!
 
 
 
