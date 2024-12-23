@@ -28,6 +28,8 @@ Wee use React + Vite, and for QR code generation library like 'qrcode' or 'qrcod
 
 
 
+
+
    - add style
 
 
