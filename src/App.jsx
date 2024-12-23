@@ -1,14 +1,15 @@
 
 import './App.css'
+import QRGenerator from './components/QRGenerator'
+
 
 function App() {
- 
+
 
   return (
-    <>
-     <h1>QR CREATOR</h1>
-      
-    </>
+  <>
+  <QRGenerator/>
+  </>
   )
 }
 
