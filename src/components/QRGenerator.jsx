@@ -21,7 +21,7 @@ export default function QRGenerator() {
 
   return (
     <div>
-      <h1>Generate Your Personal QR</h1>
+      <h1 className="heading">Generate Your Personal QR</h1>
       <form onSubmit={handleSubmit(onSubmit)}>
         <input
           type="text"
