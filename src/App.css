@@ -57,14 +57,14 @@ img {
   margin-top: 20px;
   border-radius: 10px;
 }
-@media (max-width: 562px) {
+@media (max-height: 400px), (max-width: 562px) {
   #root {
     min-width: 200px;
-    min-height: 225px;
-    
+    min-height: 200px;
   }
-  .heading{
+  .heading {
     font-size: 20px;
     color: #dc0000;
+    
   }
 }
