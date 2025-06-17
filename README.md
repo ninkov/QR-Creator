@@ -38,7 +38,7 @@ Wee use React + Vite, and for QR code generation library like 'qrcode' or 'qrcod
 
 P.S. The assets folder and index.html are re-formatted files for deployment purposes (thanks to these files, the application is uploaded online and can be used)
 
-# new functionality - download button 
+# new functionality - download button 😇
 
 ![Screenshot 2025-06-17 at 13 49 01](https://github.com/user-attachments/assets/dfdf234f-80db-47ef-9d0d-383cdf94b4ae)
 
